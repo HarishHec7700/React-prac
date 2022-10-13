@@ -1,0 +1,56 @@
+.dflex{
+    display: flex;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.header{
+    width: 100%;
+    background-color: rgb(0, 68, 255);
+}
+.head-flex{
+    justify-content: center;
+    gap: 5%;
+}
+.kart-logo{
+    width: 100%;
+}
+.kart-logo img{
+    width: 20%;
+}
+.search{
+    width: 60%;
+    padding: 1rem 1rem ;
+}
+.search-butt{
+    width: 10%;
+    height: 5%;
+}
+.back-page{
+    width: 100%;
+    color: gray;
+}
+.search-res{
+    width: 100%;
+    background-color: azure;
+}
+.res-title h1{
+    color: gray;
+}
+.res-mobiles{
+    color: rgb(172, 161, 161);
+    width: 100%;
+}
+.mobiles{
+    width: 100%;
+
+}
+.res-mobile{
+    width: 33%;
+}
+.content{
+    width: 100%;
+    background: rgb(36,247,7);
+    background: linear-gradient(90deg, rgba(36,247,7,1) 0%, rgba(10,170,90,1) 64%, rgba(0,255,188,1) 100%); 
+}
